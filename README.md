@@ -18,3 +18,9 @@ Path: "C:\Program Files\WindowsApps"
 
 or from the following website:
 https://store.rg-adguard.net/
+
+enter: https://apps.microsoft.com/detail/9wzdncrfj3t6?hl=en-us&gl=PH
+
+select "Retail" from the drop-down.
+
+
