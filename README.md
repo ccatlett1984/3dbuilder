@@ -11,3 +11,10 @@ Get-Childitem $filePath -filter *.appx| %{Add-AppxPackage -Path $_.FullName}
 Get-Childitem $filePath -filter *.appxbundle | %{Add-AppxPackage -Path $_.FullName}
 
 (You have successfully installed 3d builder, it should now be in your start menu)
+
+
+If you would like to obtain these files yourself, you may get them from a Windows machine that has the application installed
+Path: "C:\Program Files\WindowsApps"
+
+or from the following website:
+https://store.rg-adguard.net/
